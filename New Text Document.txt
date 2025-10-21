@@ -1,2 +1,3 @@
 testing
 testing2 for git
+testing3 for GitHub
